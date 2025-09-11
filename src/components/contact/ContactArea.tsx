@@ -88,7 +88,7 @@ const ContactArea = () => {
                     </a>
                     <div className="cs_icon_text">
                       <h6 className="cs_icon_title">Address</h6>
-                      <p className="cs_icon_subtitle">El-Mahalla El-Kubra 37</p>
+                      <p className="cs_icon_subtitle">DHA-III Lahore Pakistan</p>
                     </div>
                   </div>
                 </div>
@@ -112,7 +112,7 @@ const ContactArea = () => {
                     </a>
                     <div className="cs_icon_text">
                       <h6 className="cs_icon_title">Phone</h6>
-                      <p className="cs_icon_subtitle">(406) 555-0120</p>
+                      <p className="cs_icon_subtitle">(+92) 313 5035983</p>
                     </div>
                   </div>
                 </div>
@@ -133,7 +133,7 @@ const ContactArea = () => {
                     </a>
                     <div className="cs_icon_text">
                       <h6 className="cs_icon_title">Email</h6>
-                      <p className="cs_icon_subtitle">vixan@email.com</p>
+                      <p className="cs_icon_subtitle">muneeb092024@gmail.com</p>
                     </div>
                   </div>
                 </div>
