@@ -311,7 +311,7 @@ const HeaderOne = () => {
 									</p>
 
 									<h4 className="cs_phone_number">
-										<a href="tel:(406)555-0120">
+										<a href="tel:+92 313 5035983">
 											<svg width="35" height="35" viewBox="0 0 18 19" fill="none"
 												xmlns="http://www.w3.org/2000/svg">
 												<path
@@ -323,7 +323,7 @@ const HeaderOne = () => {
 												<path
 													d="M15.1294 2.93344C13.5338 1.33791 11.5151 0.330398 9.28656 0.0195312L9.0918 1.40907C11.0169 1.67874 12.7623 2.55141 14.1406 3.92597C15.4477 5.23311 16.3054 6.88483 16.6163 8.70134L17.9983 8.46538C17.635 6.36047 16.6425 4.45033 15.1294 2.93344Z"
 													fill="white"></path>
-											</svg><span className="ms-2">(406)555-0120</span></a>
+											</svg><span className="ms-2">+92 313 5035983</span></a>
 									</h4>
 
 									<ul className="cs_social_link">
@@ -335,8 +335,8 @@ const HeaderOne = () => {
 
 									<hr className="mt-2 me-5 mb-2" />
 									<h2>
-										<a href="mailto:info@email.com" className="cs_primary_font cs_text_btn"><span
-											className="cs_black">info@edirastudios.com</span></a>
+										<a href="mailto:muneeb092024@gmail.com" className="cs_primary_font cs_text_btn"><span
+											className="cs_black">muneeb092024@gmail.com</span></a>
 									</h2>
 								</div>
 							</div>
