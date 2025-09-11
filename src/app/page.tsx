@@ -18,6 +18,14 @@ import BrandHomeOne from '@/components/brand/BrandHomeOne';
 import FooterOne from '@/layouts/footers/FooterOne';
 import Wrapper from '@/layouts/Wrapper';
 import VideoPopup from '@/components/modals/VideoPopup';
+import HeroHomeThree from '@/components/hero/HeroHomeThree';
+import JourneyHomeThree from '@/components/journey/JourneyHomeThree';
+import MarqueeAreaHomeThree from '@/components/brand/MarqueeAreaHomeThree';
+import ServiceHomeThree from '@/components/service/ServiceHomeThree';
+import PortfolioHomeThree from '@/components/portfolio/PortfolioHomeThree';
+import TeamHomeTwo from '@/components/team/TeamHomeTwo';
+import AboutUs from '@/components/about/AboutUs';
+import BlogHomeTwo from '@/components/blog/BlogHomeTwo';
 
 
 // export const metadata = {
@@ -29,35 +37,26 @@ const index = () => {
   const [isVideoOpen, setIsVideoOpen] = useState<boolean>(false);
 
   return (
-    <Wrapper>
+   <Wrapper>
       <HeaderOne />
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
-            <HeroHomeOne />
-            <MarqueeAreaHomeOne />
-            <AboutHomeOne />
-            <ServiceHomeOne />
-            <PortfolioHomeOne />
+            <HeroHomeThree />
+            <JourneyHomeThree />
+            <MarqueeAreaHomeThree />
+            <ServiceHomeThree />
+            <PortfolioHomeThree />
             <AwardsHomeOne />
             <Testimonial />
-            <FunFactHomeOne />
-            <VideoHomeOne setIsVideoOpen={setIsVideoOpen} />
-            <BlogHomeOne />
-            <SubscribeHomeOne />
-            <BrandHomeOne style_2={false} />
+            <TeamHomeTwo  style_2={true} />
+            <AboutUs />
+            <BrandHomeOne style_2={true} />
+            <BlogHomeTwo style_2={true} />
           </main>
           <FooterOne />
         </div>
       </div>
-
-      {/* video modal start */}
-      <VideoPopup
-        isVideoOpen={isVideoOpen}
-        setIsVideoOpen={setIsVideoOpen}
-        videoId={"qmGYnJgCW1o"}
-      />
-      {/* video modal end */}
     </Wrapper>
   );
 };
