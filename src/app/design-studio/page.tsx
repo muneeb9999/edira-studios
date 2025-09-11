@@ -1,6 +1,3 @@
-
-'use client'
-
 import AboutUs from '@/components/about/AboutUs';
 import AwardsHomeOne from '@/components/awards/AwardsHomeOne';
 import BlogHomeTwo from '@/components/blog/BlogHomeTwo';
