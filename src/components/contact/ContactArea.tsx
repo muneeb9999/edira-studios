@@ -94,7 +94,7 @@ const ContactArea = () => {
                 </div>
                 <div className="col-md-4">
                   <div className="cs_icon">
-                    <a href="tel:(406) 555-0120" className="cs_icon_style">
+                    <a href="tel:+92 313 5035983" className="cs_icon_style">
                       <i>
                         <svg width="18" height="19" viewBox="0 0 18 19" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
@@ -118,7 +118,7 @@ const ContactArea = () => {
                 </div>
                 <div className="col-md-4">
                   <div className="cs_icon">
-                    <a href="mailto:vixan@email.com" className="cs_icon_style">
+                    <a href="mailto:muneeb092024@gmail.com" className="cs_icon_style">
                       <i>
                         <svg width="18" height="14" viewBox="0 0 18 14" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
