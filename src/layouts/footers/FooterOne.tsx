@@ -19,7 +19,7 @@ interface DataType {
 const footer_data: DataType = {
   email: `muneeb092024@gmail.com`,
   phone: `+92 313 5035983`,
-  location: `46 JOHN ST TORONTO ON M5V 3W2`,
+  location: `DHA-III Lahore Pakistan`,
   footer_info: `Welcome to our digital agency We specialize in helping business most like yours succeed online. From website design and development.`,
   links: [
     { title: `HOME`, link: "/" },
