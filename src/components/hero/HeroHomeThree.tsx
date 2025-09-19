@@ -12,7 +12,7 @@ type DataType = {
 }
 
 const hero_data: DataType = {
-  title_1: `Creative`,
+  title_1: `Edira`,
   title_2: `Design Studio`,
   des: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and advertising, we have the tools.`,
   links: [
