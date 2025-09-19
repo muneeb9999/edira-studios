@@ -29,7 +29,7 @@ import BlogHomeTwo from '@/components/blog/BlogHomeTwo';
 
 
 // export const metadata = {
-//   title: "Vixan - Digital  Creative Agency Next js Template",
+//   title: "Vixan - Digital  Creative Agency website",
 // };
 
 

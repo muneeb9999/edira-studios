@@ -9,7 +9,7 @@ import AboutHomeFour from '@/components/about/AboutHomeFour';
 
 
 // export const metadata = {
-//   title: "Team Vixan - Digital  Creative Agency Next js Template",
+//   title: "Team Vixan - Digital  Creative Agency website",
 // };
 
 

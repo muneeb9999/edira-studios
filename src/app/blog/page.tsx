@@ -9,7 +9,7 @@ import HeaderOne from '@/layouts/headers/HeaderOne';
 import React from 'react';
 
 // export const metadata = {
-//   title: "Blog Vixan - Digital  Creative Agency Next js Template",
+//   title: "Blog Vixan - Digital  Creative Agency website",
 // };
 
 const index = () => {

@@ -17,7 +17,7 @@ import HeaderOne from '@/layouts/headers/HeaderOne';
 import VideoPopup from '@/components/modals/VideoPopup';
 
 // export const metadata = {
-//   title: "About Vixan - Digital  Creative Agency Next js Template",
+//   title: "About Vixan - Digital  Creative Agency website",
 // };
 
 const index = () => {

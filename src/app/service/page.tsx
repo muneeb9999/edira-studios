@@ -13,7 +13,7 @@ import React from 'react';
 
 
 // export const metadata = {
-//   title: "Service Vixan - Digital  Creative Agency Next js Template",
+//   title: "Service Vixan - Digital  Creative Agency website",
 // };
 
 const index = () => {

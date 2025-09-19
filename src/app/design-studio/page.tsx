@@ -18,7 +18,7 @@ import HeaderOne from '@/layouts/headers/HeaderOne';
 import React from 'react';
 
 // export const metadata = {
-//   title: "Design Studio - Creative Agency Next js Template",
+//   title: "Design Studio - Creative Agency website",
 // };
 
 
