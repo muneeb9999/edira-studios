@@ -28,7 +28,7 @@ const HeroHomeThree = () => {
     <>
       <section>
         <div className="cs_hero cs_style2">
-          <div className="cs_hero_bg cs_bg cs_parallax_bg" style={{ backgroundImage: 'url(/assets/img/design_banner.jpg)' }}></div>
+          <div className="cs_hero_bg cs_bg cs_parallax_bg" style={{ backgroundImage: 'url(/assets/img/design_banner.MP4)' }}></div>
           <div className="textupdowns">
             <div className="cs_left_text">
               <span className="cs_arrow">
